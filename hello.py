@@ -1,2 +1,2 @@
-a = "hello python"
+a = "hello world"
 print(a)
